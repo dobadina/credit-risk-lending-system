@@ -1,0 +1,22 @@
+# Credentials
+*.env
+secrets.py
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# Model files
+models/
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
