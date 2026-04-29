@@ -1,5 +1,14 @@
 # Credit Risk Lending System
 
+## Live Demo
+
+Try the app here: https://credit-risk-lending-system-evryguerm5hfxfz822z4ws.streamlit.app/
+
+Adjust the borrower inputs in the sidebar and watch the lending decision update in real time.
+
+---
+
+
 A data-driven lending decision system that predicts the probability of borrower default, determines how much to lend, and produces auditable approve/decline decisions with plain-English explanations.
 
 Built as a portfolio project following the CRISP-DM methodology using a real-world credit dataset of 32,000 loan records.
