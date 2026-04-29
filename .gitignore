@@ -6,9 +6,6 @@ secrets.py
 data/raw/
 data/processed/
 
-# Model files
-models/
-
 # Outputs
 outputs/
 
